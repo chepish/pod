@@ -1,0 +1,8 @@
+https://oauth.vk.com/authorize?client_id=51664874&redirect_uri=https://api.vk.com/blank.html&scope=offline,wall&response_type=token
+
+https://vk.com/public216035445?w=wall-216035445_348
+https://vk.com/public216035445?w=wall-216035445_350
+https://vk.com/public216035445?w=wall-216035445_271
+
+
+https://vk.com/_236114
