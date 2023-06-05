@@ -68,4 +68,3 @@ def filter_post(group_name):
             if j in text_post[i]:
                 link.append(link_post[i])
     print("done")
-    return start_message()

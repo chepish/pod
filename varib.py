@@ -3,3 +3,4 @@ token = "vk1.a.zfAsjq1CBhqWcuvF-DbUloHT6e3G6EjVkuXct3wOjSpMYoGKw-rLqnbdDX4yUiMXK
 finde = ["xros 3", "хрос 3"]
 tele_bot_token= "5832843004:AAGgHRDB_1YIzM9lz0Sqz0G25akEN4mDL8g"
 link = []
+search_done = False
